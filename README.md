@@ -29,7 +29,7 @@ A FastAPI-powered service that generates **Python scripts for Manim** and render
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/2d-animation-api.git
+git clone https://github.com/Brigu09/Text2Manim-Ai.git
 cd 2d-animation-api
 
 

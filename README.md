@@ -1,4 +1,4 @@
-🎬 Text2Manim - Ai-Powered 2D-Anim Video Generator System
+##🎬 Text2Manim - Ai-Powered 2D-Anim Video Generator System
 
 A FastAPI-powered service that generates **Python scripts for Manim** and renders them into **2D educational animations** using natural language prompts and LLMs (Groq-hosted models).
 
